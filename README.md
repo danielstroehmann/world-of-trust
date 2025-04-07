@@ -9,7 +9,7 @@ Mainly for fun, but have you ever wondered who your favorite apps and sites trus
 ## How?
 Run `./extract.sh <domainlist.txt>`
 ## Details
-Example domainlist:  
+Example domain list:  
 ```  
 www.mars.com
 www.mondelezinternational.com
@@ -18,6 +18,6 @@ www.thehersheycompany.com
 www.nestle.com
 ...  
 ```  
-Check out the sample lists for a first test run (AI generated, <span style="color: red;">not</a> double checked)
+There are a few example files with domain lists as an inspiration in this repo (AI generated, not doubled-checked)
 ## Feedback
 If you like to share, let me know what lists you generated and about the results :-)
