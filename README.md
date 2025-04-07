@@ -3,7 +3,7 @@
 The script simply grabs the Root CAs from a supplied list of domains.
 ## Why?
 Mainly for fun, but have you ever wondered who your favorite apps and sites trust?
-# Requirements
+## Requirements?
 * linux
 * parallel ( `apt install parallel` )
 ## How?
