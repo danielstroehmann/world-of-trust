@@ -15,6 +15,6 @@ Example domainlist:
 `domain2.com`  
 `...`  
   
-Check out the sample lists for a first test run (AI generated, double checked)
+Check out the sample lists for a first test run (AI generated, <span style="color: red;">not</a> double checked)
 ## Feedback
 If you like to share, let me know what lists you generated and about the results :-)
